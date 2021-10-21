@@ -1,0 +1,6 @@
+C:\Users\Eloy\source\repos\SisVentas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eloy\source\repos\SisVentas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eloy\source\repos\SisVentas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Eloy\source\repos\SisVentas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eloy\source\repos\SisVentas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eloy\source\repos\SisVentas\Entidades\obj\Debug\Entidades.pdb
